@@ -73,12 +73,11 @@ Toutes les modifications doivent être commitées et pushées sur leurs branches
     - Ajouter l’URL en remote du repository forké.
     
     ```jsx
-    Repository : https://github.com/jean-durand/TP-Git-2025-2a1-G1
-    Élève 1 = Jane Doe
-    Élève 2 = Louis Petit
-    Élève 3 = Jean Durand
-    ```
-    
+    Repository : https://github.com/bilelm-lab/TP-Git-2025-2A2-G3
+    Élève 1 = Kasper SZWEDO
+    Élève 2 = Yassir BENSALEM
+    Élève 3 = Bilel MANGA
+	```    
 
 > S'il n'y a pas de troisième élève, ces tâches sont à répartir entre les deux élèves présents.
 > 
