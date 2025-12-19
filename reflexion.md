@@ -14,3 +14,6 @@ reset : Efface les commits (supprime l'historique).
 revert : Annule un commit en en créant un nouveau (préserve l'historique).
 
 Risque : Utiliser reset sur une branche partagée est dangereux car cela casse l'historique pour tous les autres collaborateurs.
+
+
+yassir
